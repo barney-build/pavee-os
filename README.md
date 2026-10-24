@@ -31,3 +31,9 @@ will focus on the tooling, or the core recipe set (or additional layers) whilst 
 
 At all times I retain sole ownership of the entire **mission** of Barney. This is an old school hacker reboot
 of distro dev done right.
+
+## License
+
+Copyright © 2026 Ikey Doherty
+
+`pavee-os` is available under the terms of the [MPL-2.0](https://spdx.org/licenses/MPL-2.0.html) license.
