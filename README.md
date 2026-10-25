@@ -1,5 +1,13 @@
 ## Pavee OS
 
+> This project is developed by [Ikey Doherty](https://github.com/TravellingEngineer) and is
+part of the [barney](https://github.com/barney-build) ecosystem initiative.
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/TravellingEngineer?style=for-the-badge&logo=github)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6Q326CJIX)
+
+
 This repository is currently not my main focus however it will form the basis for my
 **own** "respin", a very light layer atop `barney` and `bny-base`.
 
